@@ -28,6 +28,8 @@
   underline(it);
 }
 
+#show heading: set block(above: .6em)
+
 == Education
 
 *Indiana University,* Bloomington, IN #h(1fr) December 2026
