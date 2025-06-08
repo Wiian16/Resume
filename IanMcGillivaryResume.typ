@@ -1,6 +1,6 @@
 #set page(
   paper: "us-letter",
-  margin: .5in
+  margin: .70in
 )
 
 #set text(
@@ -30,7 +30,7 @@
   underline(it);
 }
 
-#show heading: set block(above: 1em)
+#show heading: set block(above: .6em)
 
 == Education
 
