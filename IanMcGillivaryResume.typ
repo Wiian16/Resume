@@ -30,7 +30,7 @@
   underline(it);
 }
 
-#show heading: set block(above: .6em)
+#show heading: set block(above: 1em)
 
 == Education
 
@@ -80,35 +80,61 @@ Platforms and Tools: Express.js, Node.js, Docker, Docker Compose, Git
 Databases: PostgresQL, SQLite, GraphQL
 \
 Miscellaneous: Microsoft Office, Adobe Suite, Davinci Resolve, Vim, Typst Agile 
+//
+// == Student Involvement
+//
+// *Binary Heart at Indiana University* #h(1fr) September 2023 - January 2025
+// \ 
+// _Chief Technology Officer_
+// \ 
+// - Developed standard methods for system deployment and purchased inventory for repair parts
+// - Distributed used and repaired computer systems to those in need in Bloomington, IN 
+//
+// *Luddy Hackathon* #h(1fr) September 2023
+// \ 
+// _First Place Team_
+// \ 
+// - Coordinated team members to efficiently delegate tasks and coordinate development
+//
+// *Luddy Hackathon* #h(1fr) April 2024 
+// \ 
+// _Participant_
+// \ 
+// - Worked with a team of my peers to develop and deploy a full stack web app within 48 hours
+// - Developed a fully-featured API interfacing with a containerized Postgres database
+//
+// *Luddy Hackathon* #h(1fr) April 2025
+// \
+// _Participant_
+// \
+// - Worked with a team of my peers to create a full-stack web app with an integrated AI assistant 
+// - Created a GraphQL-based RESTful API written in TypeScript using SQLite
 
-== Student Involvement
+== Projects
 
-*Binary Heart at Indiana University* #h(1fr) September 2023 - January 2025
-\ 
-_Chief Technology Officer_
-\ 
-- Developed standard methods for system deployment and purchased inventory for repair parts
-- Distributed used and repaired computer systems to those in need in Bloomington, IN 
-
-*Luddy Hackathon* #h(1fr) September 2023
-\ 
-_First Place Team_
-\ 
-- Coordinated team members to efficiently delegate tasks and coordinate development
-
-*Luddy Hackathon* #h(1fr) April 2024 
-\ 
-_Participant_
-\ 
-- Worked with a team of my peers to develop and deploy a full stack web app within 48 hours
-- Developed a fully-featured API interfacing with a containerized Postgres database
-
-*Luddy Hackathon* #h(1fr) April 2025
+*Developer Portfolio*
 \
-_Participant_
+https://ianmcg.dev/ | https://github.com/Wiian16/hugo-portfolio
 \
-- Worked with a team of my peers to create a full-stack web app with an integrated AI assistant 
-- Created a GraphQL-based RESTful API written in TypeScript using SQLite
+*Tools Used:* JavaScript, HTML, CSS, Hugo Site Generator, Cloudflare Workers
+\
+- Designed and deployed a developer portfolio website using Hugo using Cloudflare Workers
+
+*Graville Law Firm Website*
+\
+https://gravillelaw.com/
+\
+*Tools Used*: Wordpress, HTML, CSS
+\
+- Built and designed a business portfolio website using Wordpress 
+
+*Luddy Hackathon Spring 2025* 
+\
+https://github.com/ArchBTW-LuddyHackathonTeam/LuddyHackathonSP25
+\
+*Tools Used:* TypeScript, JavaScript, Node.js, Express.js, GraphQL, SQLite
+- Worked with a team of my peers to design and build a full stack web app within 48 hours
+- Created a RESTful API with Express.js backed by a GraphQL and SQLite database
 
 == Recognition
 
