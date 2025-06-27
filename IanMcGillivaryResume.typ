@@ -1,6 +1,6 @@
 #set page(
   paper: "us-letter",
-  margin: .70in
+  margin: .60in
 )
 
 #set text(
@@ -44,7 +44,7 @@ Relevant Courses: CSCI-C 343 - Data Structures, CSCI-C 335 - Computer Structures
 
 == Work Experience
 
-*Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) Jan. 2025 - Present
+*Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) January 2025 - Present
 \
 _Teaching Assistant for CSCI-C 212_ 
 \ 
@@ -68,6 +68,7 @@ _Makerspace Technician_
 _Associate_
 \ 
 - Learned and gained experience using the Agile workflow
+- Worked with Netskope to learn cybersecurity basics in a real-world environment
 
 == Technical Skills
 
