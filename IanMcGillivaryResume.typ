@@ -39,8 +39,8 @@
 _Bachelors of Science in Computer Science_ | Major GPA: 3.7
 \
 Specialization: Software Engineering | Minor: Environmental Science
-\
-Relevant Courses: CSCI-C 343 - Data Structures, CSCI-C 335 - Computer Structures
+// \
+// Relevant Courses: CSCI-C 343 - Data Structures, CSCI-C 335 - Computer Structures
 
 == Work Experience
 
