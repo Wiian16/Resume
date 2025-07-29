@@ -59,6 +59,8 @@ _Makerspace Technician_
 - Operate and maintain machinery such as laser cutters and 3D printers
 
 *Graville Law Firm* -- Des Peres, MO #h(1fr) May 2023 - Present
+\
+_Litigation Technology Associate_
 \ 
 - Built and designed the firm's website
 - Created audio, visual, and document exhibits for trial
