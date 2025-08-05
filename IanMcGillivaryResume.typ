@@ -51,7 +51,7 @@ _Teaching Assistant for CSCI-C 212_
 - Lead in-person labs for 30+ students learning Java and hold in-person office hours to assist students
 - Grade homework assignments and exams
 
-*Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2024 - Present
+*Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2023 - Present
 \ 
 _Makerspace Technician_
 \ 
