@@ -46,10 +46,10 @@ Specialization: Software Engineering | Minor: Environmental Science
 
 *Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) January 2025 - Present
 \
-_Teaching Assistant for CSCI-C 212_ 
+_Teaching Assistant for CSCI-C  Classes_ 
 \ 
+- Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
 - Lead in-person labs for 30+ students learning Java and hold in-person office hours to assist students
-- Grade homework assignments and exams
 
 *Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2023 - Present
 \ 
