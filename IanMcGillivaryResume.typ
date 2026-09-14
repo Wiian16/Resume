@@ -33,33 +33,33 @@
 
 *Indiana University,* Bloomington, IN #h(1fr) December 2026
 \
-_Bachelors of Science in Computer Science_ | Major GPA: 3.7
+_Bachelor of Science in Computer Science_ | Major GPA: 3.7
 \
-Specialization: Software Engineering | Minor: Environmental Science
+Specialization: Systems | Minor: Environmental Science
 \
-Relevant Courses: CSCI-C 343 - Data Structures, CSCI-C 335 - Computer Structures
+Relevant Courses: CSCI-B 405: Applied Algorithms, CSCI-P 436: Intro to Operating Systems
 
 == Work Experience
 
-*Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) January 2025 - Present
+*Enterprise Mobility* -- St. Louis, MO #h(1fr) May 2026 - July 2026
 \
-_Teaching Assistant for CSCI-C Classes_
+_Software Engineering Intern_ | Messaging Center of Excellence
 \
-- Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
-- Lead in-person labs for 30+ students learning Java and hold in-person office hours to assist students
+- Completed 16 work items across on-premises Java and AWS Lambda applications, contributing to testing infrastructure, application optimization, and security improvements
+- Redesigned SOAP testing stubs using Spring controllers and resolved 100+ Polaris issues, improving maintainability and application reliability
 
 *Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2023 - Present
 \
 _Makerspace Technician_
 \
 - Teach students to use fabrication tools such as 3D printers, soldering irons, and CAD Software
-- Operate and maintain machinery such as laser cutters and 3D printers
 
-*Graville Law Firm* -- Des Peres, MO #h(1fr) May 2023 - Present
+*Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) January 2025 - May 2026
 \
-_Litigation Technology Associate_
+_Teaching Assistant for CSCI-C Classes_
 \
-- Built and designed the firm's website
+- Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
+- Led Java labs for 30+ students and provided office hours for Data Structures and Intro to Software Systems courses
 
 *Spark! Technology Solutions* -- Chesterfield, MO #h(1fr) August 2022 - May 2023
 \
