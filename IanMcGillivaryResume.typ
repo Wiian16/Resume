@@ -45,8 +45,8 @@ Relevant Courses: CSCI-B 405: Applied Algorithms, CSCI-P 436: Intro to Operating
 \
 _Software Engineering Intern_ | Messaging Center of Excellence
 \
-- Completed 16 work items across on-premises Java and AWS Lambda applications, contributing to testing infrastructure, application optimization, and security improvements
-- Redesigned SOAP testing stubs using Spring controllers and resolved 100+ Polaris issues, improving maintainability and application reliability
+- Completed 26 story points across 16 work items across on-premises Java and AWS Lambda applications, contributing to testing infrastructure, application optimization, and security improvements
+- Redesigned SOAP testing stubs using Spring controllers and resolved 100+ identified security vulnerabilities, improving maintainability and application reliability
 
 *Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2023 - Present
 \
@@ -61,13 +61,6 @@ _Teaching Assistant for CSCI-C Classes_
 - Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
 - Led Java labs for 30+ students and provided office hours for Data Structures and Intro to Software Systems courses
 
-*Spark! Technology Solutions* -- Chesterfield, MO #h(1fr) August 2022 - May 2023
-\
-_Associate_
-\
-- Learned and gained experience using the Agile workflow
-- Worked with Netskope to learn cybersecurity basics in a real-world environment
-
 == Technical Skills
 
 *Languages*: Java, C, C\#, Python, JavaScript, TypeScript, Rust
@@ -78,16 +71,16 @@ _Associate_
 \
 *Databases*: PostgreSQL, SQLite, GraphQL
 \
-*Other*: Agile, Jenkins, Microsoft Office, Adobe Suite, Vim, Typst
+*Other*: Agile, Jenkins, CI/CD, Microsoft Office, Adobe Suite, Vim, Typst
 
 == Projects
 
-*Graville Law Firm Website*
+*Deej-rs*: A Rust re-write of https://github.com/omriharel/deej
 \
-https://gravillelaw.com/
+*ADD LINK HERE*
 \
-*Tools Used*: Wordpress, HTML, CSS
-- Built and designed a business portfolio website using Wordpress
+*Tools Used*: Rust, Tokio, SerDe, PulseAudio, CI/CD
+- Re-wrote an existing Go app in Rust, maintaining feature compatibility and utilizing asynchronous programming
 
 *Luddy Hackathon Spring 2026*
 \
@@ -97,12 +90,13 @@ https://github.com/ArchBTW-LuddyHackathonTeam/LuddyHackathonSP26
 - Worked with a team of my peers to design and build a high-performance RESTful API within 24 hours
 - Created a RESTful API with Rust's Axum backed by a PostgreSQL database
 
-*Deej-rs*: A Rust re-write of https://github.com/omriharel/deej
+*Graville Law Firm Website*
 \
-*ADD LINK HERE*
+https://gravillelaw.com/
 \
-*Tools Used*: Rust, Tokio, SerDe, PulseAudio, CI/CD
-- Re-wrote an existing Go app in Rust, maintaining feature compatibility and utilizing asynchronous programming
+*Tools Used*: Wordpress, HTML, CSS
+- Built and designed a business portfolio website using Wordpress
+- Utilized Agile development techniques to work with the firm to deliver the website they wanted
 
 == Recognition
 
