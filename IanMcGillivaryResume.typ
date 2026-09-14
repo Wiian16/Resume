@@ -1,7 +1,4 @@
-#set page(
-  paper: "us-letter",
-  margin: .60in
-)
+#set page(paper: "us-letter", margin: .60in)
 
 #set text(
   size: 11pt,
@@ -21,8 +18,8 @@
 
   = Ian McGillivary
 
-  ianmcgil\@iu.edu | (314) 915-4249 
-\
+  ianmcgil\@iu.edu | (314) 915-4249
+  \
   GitHub: https://github.com/Wiian16 | Portfolio: https://ianmcg.dev/
 ]
 
@@ -46,28 +43,28 @@ Relevant Courses: CSCI-C 343 - Data Structures, CSCI-C 335 - Computer Structures
 
 *Luddy School of Informatics, Computing, & Engineering* -- Bloomington, IN #h(1fr) January 2025 - Present
 \
-_Teaching Assistant for CSCI-C  Classes_ 
-\ 
+_Teaching Assistant for CSCI-C Classes_
+\
 - Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
 - Lead in-person labs for 30+ students learning Java and hold in-person office hours to assist students
 
 *Luddy Makerspaces* -- Bloomington, IN #h(1fr) August 2023 - Present
-\ 
+\
 _Makerspace Technician_
-\ 
+\
 - Teach students to use fabrication tools such as 3D printers, soldering irons, and CAD Software
 - Operate and maintain machinery such as laser cutters and 3D printers
 
 *Graville Law Firm* -- Des Peres, MO #h(1fr) May 2023 - Present
 \
 _Litigation Technology Associate_
-\ 
+\
 - Built and designed the firm's website
 
 *Spark! Technology Solutions* -- Chesterfield, MO #h(1fr) August 2022 - May 2023
-\ 
+\
 _Associate_
-\ 
+\
 - Learned and gained experience using the Agile workflow
 - Worked with Netskope to learn cybersecurity basics in a real-world environment
 
@@ -77,11 +74,11 @@ Languages: Java, C, C\#, Python, JavaScript, TypeScript
 \
 Platforms: Linux/Unix, Microsoft Windows, Raspberry Pi, Arduino
 \
-Platforms and Tools: Express.js, Node.js, Docker, Docker Compose, Git 
+Platforms and Tools: Express.js, Node.js, Docker, Docker Compose, Git
 \
 Databases: PostgresQL, SQLite, GraphQL
 \
-Miscellaneous: Microsoft Office, Adobe Suite, Davinci Resolve, Vim, Typst, Agile 
+Miscellaneous: Microsoft Office, Adobe Suite, Davinci Resolve, Vim, Typst, Agile
 
 == Projects
 
@@ -99,9 +96,9 @@ https://gravillelaw.com/
 \
 *Tools Used*: Wordpress, HTML, CSS
 \
-- Built and designed a business portfolio website using Wordpress 
+- Built and designed a business portfolio website using Wordpress
 
-*Luddy Hackathon Spring 2025* 
+*Luddy Hackathon Spring 2025*
 \
 https://github.com/ArchBTW-LuddyHackathonTeam/LuddyHackathonSP25
 \
