@@ -82,29 +82,27 @@ Miscellaneous: Microsoft Office, Adobe Suite, Davinci Resolve, Vim, Typst, Agile
 
 == Projects
 
-*Developer Portfolio*
-\
-https://ianmcg.dev/ | https://github.com/Wiian16/hugo-portfolio
-\
-*Tools Used:* JavaScript, HTML, CSS, Hugo Site Generator, Cloudflare Workers
-\
-- Designed and deployed a developer portfolio website using Hugo using Cloudflare Workers
-
 *Graville Law Firm Website*
 \
 https://gravillelaw.com/
 \
 *Tools Used*: Wordpress, HTML, CSS
-\
 - Built and designed a business portfolio website using Wordpress
 
-*Luddy Hackathon Spring 2025*
+*Luddy Hackathon Spring 2026*
 \
-https://github.com/ArchBTW-LuddyHackathonTeam/LuddyHackathonSP25
+https://github.com/ArchBTW-LuddyHackathonTeam/LuddyHackathonSP26
 \
-*Tools Used:* TypeScript, JavaScript, Node.js, Express.js, GraphQL, SQLite
-- Worked with a team of my peers to design and build a full stack web app within 48 hours
-- Created a RESTful API with Express.js backed by a GraphQL and SQLite database
+*Tools Used:* Rust, Axum, Tokio, PostgreSQL, Docker, Go
+- Worked with a team of my peers to design and build a high-performance RESTful API within 24 hours
+- Created a RESTful API with Rust's Axum backed by a PostgreSQL database
+
+*Deej-rs*: A Rust re-write of https://github.com/omriharel/deej
+\
+*ADD LINK HERE*
+\
+*Tools Used*: Rust, Tokio, SerDe, PulseAudio, CI/CD
+- Re-wrote an existing Go app in Rust, maintaining feature compatibility and utilizing asynchronous programming
 
 == Recognition
 
