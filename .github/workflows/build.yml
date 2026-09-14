@@ -30,6 +30,6 @@ jobs:
           AWS_REGION: auto
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
         run: |
-          aws s3 cp document.pdf "s3://${R2_BUCKET}/IanMcGillivaryResume.pdf" \
+          aws s3 cp IanMcGillivaryResume.pdf "s3://${R2_BUCKET}/IanMcGillivaryResume.pdf" \
             --endpoint-url "${AWS_ENDPOINT_URL}" \
             --content-type "application/pdf"
