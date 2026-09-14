@@ -70,15 +70,15 @@ _Associate_
 
 == Technical Skills
 
-Languages: Java, C, C\#, Python, JavaScript, TypeScript
+*Languages*: Java, C, C\#, Python, JavaScript, TypeScript, Rust
 \
-Platforms: Linux/Unix, Microsoft Windows, Raspberry Pi, Arduino
+*Frameworks/Tools*: Spring, Express.js, Node.js, Docker, Docker Compose, Git
 \
-Platforms and Tools: Express.js, Node.js, Docker, Docker Compose, Git
+*Cloud/Systems*: AWS Lambda, S3, CloudWatch, Linux/Unix, Windows, Raspberry Pi, Adruino
 \
-Databases: PostgresQL, SQLite, GraphQL
+*Databases*: PostgreSQL, SQLite, GraphQL
 \
-Miscellaneous: Microsoft Office, Adobe Suite, Davinci Resolve, Vim, Typst, Agile
+*Other*: Agile, Jenkins, Microsoft Office, Adobe Suite, Vim, Typst
 
 == Projects
 
