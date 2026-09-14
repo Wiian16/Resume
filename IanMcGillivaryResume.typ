@@ -1,4 +1,4 @@
-#set page(paper: "us-letter", margin: .60in)
+#set page(paper: "us-letter", margin: .60in, footer: align(center)[Open source resume | CI/CD automated | #link("https://github.com/Wiian16/Resume")[github.com/Wiian16/Resume]])
 
 #set text(
   size: 11pt,
@@ -79,7 +79,7 @@ _Teaching Assistant for CSCI-C Classes_
 \
 *ADD LINK HERE*
 \
-*Tools Used*: Rust, Tokio, SerDe, PulseAudio, CI/CD
+*Tools Used*: Rust, Tokio, Serde, PulseAudio, CI/CD
 - Re-wrote an existing Go app in Rust, maintaining feature compatibility and utilizing asynchronous programming
 
 *Luddy Hackathon Spring 2026*
