@@ -18,7 +18,7 @@
 
   = Ian McGillivary
 
-  ianmcgil\@iu.edu | (314) 915-4249
+  ianm\@ianmcg.dev | (314) 915-4249
   \
   GitHub: https://github.com/Wiian16 | Portfolio: https://ianmcg.dev/
 ]
