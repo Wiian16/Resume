@@ -35,7 +35,7 @@
 \
 _Bachelor of Science in Computer Science_ | Major GPA: 3.7
 \
-Specialization: Systems | Minor: Environmental Science
+Specialization: Systems | Minors: Environmental Science and Data Science
 \
 Relevant Courses: CSCI-B 405: Applied Algorithms, CSCI-P 436: Intro to Operating Systems
 
