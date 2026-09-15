@@ -77,7 +77,7 @@ _Teaching Assistant for CSCI-C Classes_
 
 *Deej-rs*: A Rust re-write of https://github.com/omriharel/deej
 \
-*ADD LINK HERE*
+https://github.com/Wiian16/deej-rs
 \
 *Tools Used*: Rust, Tokio, Serde, PulseAudio, CI/CD
 - Re-wrote an existing Go app in Rust, maintaining feature compatibility and utilizing asynchronous programming
